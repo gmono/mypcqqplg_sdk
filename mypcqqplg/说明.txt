@@ -1,0 +1,7 @@
+
+C++ Mypcqq 插件开发模板
+
+内有原名的port声明头文件 如果不怕编译器报错可以改名成 mypcqq_dllport.h
+最新标准 也就是C++11是支持Unicode标识符的
+
+

@@ -1,0 +1,10 @@
+LIBRARY mypcqqplg
+
+EXPORTS
+
+set @1
+about @2
+info @3
+end @4
+Message @5
+EventFun @6
